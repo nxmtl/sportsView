@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SportsView</string>
+    <string name="sub_title_separator">|</string>
+    <string name="sub_title_format">%.1f 公里 | %d 千卡</string>
+</resources>
